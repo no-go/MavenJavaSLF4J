@@ -185,7 +185,7 @@ output:
     [INFO] ------------------------------------------------------------------------
 
 
-**Were are the compiled file?** Look at the `target/` folder :-D
+**Where are the compiled file?** Look at the `target/` folder :-D
 
 ## Hint about Unit-Tests
 
